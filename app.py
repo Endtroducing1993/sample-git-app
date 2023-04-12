@@ -8,3 +8,5 @@ with col1:
     st.image('Sumit.jpg')
 with col2:
     st.write('Sumit.jpg')
+
+st.header("Courses Offered")
