@@ -12,3 +12,4 @@ with col2:
 st.header("Courses Offered")
 st.subheader("python")
 st.subheader("SQL")
+st.subheader("Data Scientist")
