@@ -10,3 +10,5 @@ with col2:
     st.write('Sumit.jpg')
 
 st.header("Courses Offered")
+st.subheader("python")
+st.subheader("SQL")
